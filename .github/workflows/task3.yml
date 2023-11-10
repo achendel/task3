@@ -3,7 +3,7 @@ name: Automate snipe-IT application using Terraform
 on:
   push:
     branches:
-      - Farhan_Ahmed
+      - achendel
   workflow_dispatch:
 
 jobs:
